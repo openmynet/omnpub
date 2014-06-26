@@ -1,4 +1,4 @@
-//十六进制颜色值域RGB格式颜色值之间的相互转换
+﻿//十六进制颜色值域RGB格式颜色值之间的相互转换
 var colorConver = (function() {
 	'use strict';
 	var rgbReg = /^RGB\(\d+,\d+,\d+\)$/;//rgb

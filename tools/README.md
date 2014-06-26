@@ -1,5 +1,3 @@
-omnpub
-======
 
 colorConver.js
 --------------
